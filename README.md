@@ -1,6 +1,6 @@
 # shngrc
 
-A Profile page for my oshi.
+A Profile page for my oshi. [Discontinued Project]
 
 ## Getting Started
 
